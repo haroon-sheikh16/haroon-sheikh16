@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Software Engineer | Full-Stack Developer | JavaScript
+
+- 🔭 I’m currently working as a Full Stack Developer @ <a href="https://kwanso.com/"> <img src="https://cdn.prod.website-files.com/5faba24d27bf861052a293ea/65ac6221a32da2cb974dbeec_Group%201.svg" loading="lazy" width="100" alt=""> </a>
+- 👯 I’m looking to collaborate on opensource and github
+- 💬 Ask me about Fullstack development
+- ⚡ Fun fact: Apart from programming I like to read.
+
